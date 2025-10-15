@@ -6,7 +6,7 @@
     <title>My test page</title>
   </head>
   <body>
-    <center><h1>Les Voitures</h1>
+    <center><h1>Les Voitures</h1></center>
     <p>Produite par le constructeur automobile croate Rimac, <strong>la Rimac Nevera</strong> développe une puissance totale de 1 914 chevaux <br>et atteint la vitesse vertigineuse de 412 km/h. L'hypercar électrique est tout simplement <br>la voiture de sport la plus puissante du marché et l'une des voitures les plus rapides du monde actuellement.</p></center>
     <center><a href="https://www.rimac-automobili.com/nevera/" title="Remac Car">Remac Voiture De sport</a></center>
     <center><img src="IMG_0413.JPG" alt="Remac Nevera" width="20%"></center>
