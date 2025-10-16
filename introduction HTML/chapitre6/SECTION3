@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>My test page</title>
+  </head>
+  <body>
+    <center><h1>Les Voitures</h1></center>
+    <center><p>Produite par le constructeur automobile croate Rimac, <strong>la Rimac Nevera</strong> développe une puissance totale de 1 914 chevaux <br>et atteint la vitesse vertigineuse de 412 km/h. L'hypercar électrique est tout simplement <br>la voiture de sport la plus puissante du marché et l'une des voitures les plus rapides du monde actuellement.</p></center>
+    <center><a href="https://www.rimac-automobili.com/nevera/" title="Remac Car">Remac Voiture De sport</a></center>
+    <center><img src="IMG_0413.JPG" alt="Remac Nevera" width="20%"></center>
+  
+
+<dl>
+  <dt><strong>Moteur</strong></dt>
+  <dd>C’est lui qui transforme le carburant (essence, diesel, électricité) en énergie mécanique pour faire tourner les roues. Plus le moteur est puissant (exprimé en chevaux-vapeur ou kilowatts), plus la voiture peut aller vite/dd>
+  <dt><strong>Aérodynamiques</strong></dt>
+  <dd>la forme de la voiture influence sa vitesse : moins de résistance à l’air = plus rapide.</dd>
+  <dt><strong>Roues et pneus</strong></dt>
+  <dd>De bons pneus et une bonne adhérence permettent d’utiliser pleinement la puissance du moteur</dd>
+</dl>
+
+
+<blockquote cite="https://www.brainyquote.com/quotes/confucius_131984">
+  <p>By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.</p>
+</blockquote>
+<p>------- Sun Tzu, <a href="https://www.brainyquote.com/quotes/confucius_131984"><cite>Confucius</cite></a></p>
+
+<p>An ex-president one said:  <q cite="https://www.brainyquote.com/quotes/nelson_mandela_378967?src=t_motivational">It always seems impossible until it's done.</q> -- <a href="https://www.brainyquote.com/quotes/nelson_mandela_378967?src=t_motivational"><cite>brainyquote</cite></p>
+
+
+
+
+</body>
+</html>
