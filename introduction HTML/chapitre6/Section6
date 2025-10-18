@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>My test page</title>
+  </head>
+<body>
+    <center><h1>Les Voitures</h1></center>
+    <center><p>Produite par le constructeur automobile croate Rimac, <strong>la Rimac Nevera</strong> développe une puissance totale de 1 914 chevaux <br>et atteint la vitesse vertigineuse de 412 km/h. L'hypercar électrique est tout simplement <br>la voiture de sport la plus puissante du marché et l'une des voitures les plus rapides du monde actuellement.</p></center>
+    <center><a href="https://www.rimac-automobili.com/nevera/" title="Remac Car">Remac Voiture De sport</a></center>
+    <center><img src="IMG_0413.JPG" alt="Remac Nevera" width="20%"></center>
+  
+
+  <dl>
+    <dt><strong>Moteur</strong></dt>
+    <dd>C’est lui qui transforme le carburant (essence, diesel, électricité) en énergie mécanique pour faire tourner les roues. Plus le moteur est puissant (exprimé en chevaux-vapeur ou kilowatts), plus la voiture peut aller vite/dd>
+    <dt><strong>Aérodynamiques</strong></dt>
+    <dd>la forme de la voiture influence sa vitesse : moins de résistance à l’air = plus rapide.</dd>
+    <dt><strong>Roues et pneus</strong></dt>
+    <dd>De bons pneus et une bonne adhérence permettent d’utiliser pleinement la puissance du moteur</dd>
+  </dl>
+
+
+    <blockquote cite="https://www.brainyquote.com/quotes/confucius_131984">
+      <p>By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.</p>
+    </blockquote>
+    <p>------- Sun Tzu, <a href="https://www.brainyquote.com/quotes/confucius_131984"><cite>Confucius</cite></a></p>
+
+    <p>An ex-president one said:  <q cite="https://www.brainyquote.com/quotes/nelson_mandela_378967?src=t_motivational">It always seems impossible until it's done.</q> -- <a href="https://www.brainyquote.com/quotes/nelson_mandela_378967?src=t_motivational"><cite>brainyquote</cite></p></a>
+  <p><strong>Abbreviation</strong></p>
+  <p>Le nom de notre université auparavant c'etait <abbr title="Université Libre de Tunis">ULT</abbr> ,maintenant c'est Bouebdelli Université.</p>
+  <p><strong>Adresse</strong></p>
+  <address>
+    <p>Abdallah Garba,Tunis,Cité El Khadra,Tunisie</p>
+  </address>
+  <p><strong>exposant et indice</strong></p>
+  <p>La formule chimique de la caféine est C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>.</p>
+  <p>Le 1<sup>er</sup> Janvier est une date feriée</p>
+  <pre><code>var para = document.querySelector('p');
+
+para.onclick = function() {
+  alert('Owww, arrête de me toucher !');
+}</code></pre>
+
+<p>N'utilisez pas d'éléments de présentation comme <code>&lt;font&gt;</code> et <code>&lt;center&gt;</code>.</p>
+
+<p>Dans l'exemple JavaScript ci‑dessus, <var>para</var> représente un élément paragraphe.</p>
+
+
+<p>Sélectionnez la totalité du texte avec <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>A</kbd>.</p>
+
+<pre>$ <kbd>ping mozilla.org</kbd>
+<samp>PING mozilla.org (63.245.208.195) 56(84) bytes of data.
+64 bytes from mozilla.org (63.245.208.195): icmp_seq=1 ttl=46 time=191 ms</samp></pre>
+<!-- Simple date standard -->
+<time datetime="2025-10-18">18 octobre 2025</time>
+<!-- Juste l'heure, heure et minutes -->
+<time datetime="17:01">17h01</time>
+<br>
+<!-- Date et heure -->
+<time datetime="2025-10-18T17:01">17h01, le 18 octobre 2025</time>
+<br>
+
+
+
+
+</body>
+</html>
